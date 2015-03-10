@@ -1,0 +1,2 @@
+  * Create test for making sure decryption works
+  * Support cyphers other than AES/Rijndael

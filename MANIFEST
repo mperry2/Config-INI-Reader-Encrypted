@@ -1,0 +1,14 @@
+Build.PL
+Changes
+lib/Config/INI/Reader/Encrypted.pm
+MANIFEST			This list of files
+README
+t/00-load.t
+t/boilerplate.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
+TODO
+Makefile.PL
+META.yml
+META.json
